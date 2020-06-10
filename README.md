@@ -10,7 +10,7 @@ Webpage for playing scramble words game.
 
 ## Setup/Installation Requirements
 
-* URL: janecher.github.io/scramble-words/index.html
+* [janecher.github.io/scramble-words/index.html](janecher.github.io/scramble-words/index.html)
 * Clone/download repository (click green button "clone or download" and click downlown ZIP or use "git clone https://github.com/janecher/scramble-words.git" command in your terminal)
 * Open index.html file in the browser
 
